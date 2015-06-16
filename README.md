@@ -1,1 +1,1 @@
-# Sample_projectсадф
+Sample project
